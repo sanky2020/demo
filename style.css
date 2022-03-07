@@ -1,0 +1,84 @@
+body{
+    margin:0;
+}
+#container li{
+    list-style-type:none;
+    display: inline-block;
+    margin-right: 20px;
+}
+#container{
+    width: 100%;
+    height: 100px;
+    border-bottom: 1px solid rgb(226, 226, 226)
+}
+.search-tab-icon{
+    width: 20px;
+    margin-right: 5px;
+    margin-bottom: -4px;
+}
+#all{
+    border-bottom: 4px solid rgb(90, 127, 247);
+    padding-bottom: 15px;
+}
+.search-results{
+    width: 50%;
+    margin-left: 35px;
+}
+#search-result-time{
+    color: rgb(168, 167, 167);
+}
+.blue-heading{
+    color: rgb(30, 30, 236);
+}
+.green-link{
+    color: green;
+    font-weight: 500;
+    margin-top: -15px;
+}
+.description{
+    margin-top: -15px;
+}
+.tags{
+    color: rgb(30, 30, 236);
+    margin-top: -15px;
+}
+#footer{
+    width: 100%;
+    height: 30px;
+    color: rgb(95, 95, 95);
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 15px;
+}
+#side-container{
+    border: 1px solid lightgrey;
+    width: 30%;
+}
+.side-icons{
+    width: 200px;
+    margin-right: -30px;
+}
+.side-container-margin{
+    margin-left: 10px;
+}
+#side-caption{
+    color: rgb(95, 95, 95);
+}
+.side-icon-list{
+    width: 60px;
+}
+.side-icon-result{
+    display: inline-block;
+    margin-left: 10px;
+}
+.side-icon-list-names{
+    text-align: center;
+}
+#html-des{
+    border-top: 1px solid lightgrey;
+}
+#side-container{
+    position: absolute;
+    top: 150px;
+    right: 150px;
+}
