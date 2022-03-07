@@ -17,6 +17,6 @@
 * "m" flag is used for adding any "message" while doing commit
 ### 8) git pull origin main
 * Pulls all the latest files from remote repo into present working directory
-#### If there is any conflicts repeat steps 5,6,7,8,9; else
+#### If there is any conflicts repeat steps 5, 6, 7, 8, & 9; else
 ### 9) git push origin "branch-name"
 * pushes the code to remote repo to the specified branch.
